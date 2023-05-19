@@ -11,12 +11,13 @@ header{
 ul{
     display: flex;
     list-style-type: none;
+
 }
 ul li a{
     padding:0 20px;
     text-decoration: none;
     /* color: chocolate; */
-    color:rgb(145, 61, 1);
+    color:brown;
     /* font-style: italic; */
    font-weight: 600;
    font-size: 20px;
@@ -37,7 +38,7 @@ ul li a:visited{
     margin-top: 30px;
 }
 .input{
-    color: chocolate;
+    color: rgb(93, 93, 252);
     font-style: italic;
     margin-left: 70PX;
     word-spacing: 5PX;
@@ -63,7 +64,7 @@ ul li a:visited{
     font-weight: 600;
     border: none;
     border-radius: 7px;
-    background-color: rgba(250,100,0,0.8);
+    background-color: rgb(42, 39, 248);
     color: black;
     cursor: pointer;
     border: 1px solid black;
@@ -79,7 +80,7 @@ ul li a:visited{
     font-weight: 600;
     border: none;
     border-radius: 7px;
-    background-color: rgba(250,100,0,0.8);
+    background-color:  rgb(69, 66, 247);
     color: black;
     cursor: pointer;
     border: 1px solid black;
