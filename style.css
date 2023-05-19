@@ -11,6 +11,11 @@ header{
 ul{
     display: flex;
     list-style-type: none;
+    background-color: gray;
+    height: 35px;
+    margin-top: 25px;
+    align-items: center;
+    width: 100%;
 }
 ul li a{
     padding:0 20px;
